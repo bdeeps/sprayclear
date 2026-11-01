@@ -1,0 +1,105 @@
+{
+  "slug": "sprayclear",
+  "box": 193,
+  "date": "2026-10-30",
+  "title": "SprayClear",
+  "question": "How does a spray bottle work?",
+  "hook": "One squeeze of your finger makes about 4.6 bar, shuts one tiny ball, opens another and tears a millilitre of water into drops thinner than a hair. Pull the trigger of a spray bottle in slow motion and watch it happen.",
+  "thumbText": "HOW A SPRAY BOTTLE WORKS",
+  "field": "machines",
+  "minutes": 12,
+  "tags": [
+    "spray bottle",
+    "trigger sprayer",
+    "atomiser",
+    "check valve",
+    "swirl nozzle",
+    "Bernoulli",
+    "surface tension",
+    "aerosol",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A tiny hand pump on a bottle",
+      "text": "A trigger sprayer screws onto a bottle and needs no gas or battery. A lever drives a piston in a small cylinder, a spring brings it back, and two ball valves make the flow go one way."
+    },
+    {
+      "title": "Squeeze, then let go",
+      "text": "Squeezing with 20 N on a 3 to 1 lever makes about 4.6 bar, which shuts the inlet ball and opens the outlet. Letting go lowers the cylinder's pressure, and the air on the bottle's liquid pushes about 1 mL up the tube. A dry pump takes a few pulls to prime."
+    },
+    {
+      "title": "From a jet to a mist",
+      "text": "Pressure gives up to 30 m/s at the hole. A swirl chamber spins the liquid into a hollow cone. The thin sheet tears into threads, and surface tension pinches them into drops about 60 microns across in our model."
+    },
+    {
+      "title": "How far and how fine",
+      "text": "Drag brakes small drops within centimetres, and they can evaporate in seconds, while 1 mm drops from the stream setting fly over 4 metres. Thick oils and gels are too sluggish to mist."
+    },
+    {
+      "title": "The cousins",
+      "text": "A perfume bulb and an airbrush really use suction, from fast air. An aerosol can stores its pressure in a propellant. A pump-up knapsack stores it in air you pump by hand."
+    },
+    {
+      "title": "Use it safely",
+      "text": "A disinfectant needs its label's contact time, wet on the surface. Never mix cleaning products: some combinations give off toxic gas. Label every refill, keep sprays from eyes and children, and follow pesticide labels."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Positive-displacement pump",
+      "def": "A pump that moves a fixed amount of liquid each stroke by squeezing a closed space."
+    },
+    {
+      "term": "Check valve",
+      "def": "A one-way gate, here a small ball that flow lifts off its seat in one direction and shuts in the other."
+    },
+    {
+      "term": "Priming",
+      "def": "Replacing the air in a pump and tube with liquid so it can build pressure."
+    },
+    {
+      "term": "Swirl chamber",
+      "def": "A tiny room behind the nozzle hole where side-entering liquid spins, so it leaves as a hollow cone."
+    },
+    {
+      "term": "Surface tension",
+      "def": "The pull between molecules at a liquid's surface that makes it act like a stretched skin."
+    },
+    {
+      "term": "Weber number",
+      "def": "A ratio of how hard moving liquid pushes against how strongly surface tension holds it together."
+    },
+    {
+      "term": "Rayleigh–Plateau instability",
+      "def": "Why a thread of liquid pinches into beads: spheres have less surface."
+    },
+    {
+      "term": "Contact time",
+      "def": "How long a disinfectant must stay wet on a surface for the label's claim to hold."
+    },
+    {
+      "term": "Propellant",
+      "def": "The gas in an aerosol can that stores the pressure and pushes the product out."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "sprayclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

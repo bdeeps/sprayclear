@@ -1,0 +1,836 @@
+{
+  "title": "The history of the spray bottle",
+  "tagline": "From a doctor's rubber bulb to a finger-powered plastic pump, and the can that changed the sky.",
+  "intro": "People wanted fine sprays long before they knew how to make them cheap. Doctors built atomisers to reach the throat, artists turned them into airbrushes, farmers strapped pumps on their backs, and scientists put pressure in a can. Then a plastic trigger made it all possible with one finger, while the chemistry of spray cans became a global lesson about the ozone layer.",
+  "eras": [
+    {
+      "id": "fizz",
+      "name": "Pressure in a bottle",
+      "from": 1790,
+      "to": 1860,
+      "color": "#6fb6ff",
+      "summary": "Fizzy drinks show that a sealed container can push its own contents out, and a valve puts that under control."
+    },
+    {
+      "id": "atom",
+      "name": "Atomisers and airbrushes",
+      "from": 1858,
+      "to": 1910,
+      "color": "#c49bff",
+      "summary": "Doctors and artists use pumps and blown air to tear liquid into mist."
+    },
+    {
+      "id": "farm",
+      "name": "Sprayers on the farm",
+      "from": 1885,
+      "to": 1970,
+      "color": "#5ce1a9",
+      "summary": "Crop disease creates a need for backpack tanks, and later for laws on what goes into them."
+    },
+    {
+      "id": "can",
+      "name": "The aerosol can",
+      "from": 1926,
+      "to": 1955,
+      "color": "#ffb547",
+      "summary": "A liquefied gas and a cheap valve put stored pressure on every shelf."
+    },
+    {
+      "id": "trig",
+      "name": "The plastic trigger",
+      "from": 1958,
+      "to": 1980,
+      "color": "#ff7a59",
+      "summary": "Moulded plastics make a finger-powered pump cheap, with no gas at all."
+    },
+    {
+      "id": "ozone",
+      "name": "The ozone turn",
+      "from": 1974,
+      "to": 1995,
+      "color": "#f59ee6",
+      "summary": "Science links CFC propellants to ozone loss, and the world acts together."
+    },
+    {
+      "id": "today",
+      "name": "Refill and read the label",
+      "from": 2016,
+      "to": 2026,
+      "color": "#f2c14e",
+      "summary": "Plastic rules, a climate amendment and clear advice on how to use a spray."
+    }
+  ],
+  "events": [
+    {
+      "year": 1790,
+      "date": "c. 1790",
+      "era": "fizz",
+      "art": "flask",
+      "title": "Fizzy drinks that push themselves out",
+      "who": "Unknown makers",
+      "where": "France",
+      "country": "France",
+      "text": "Self-pressurised carbonated drinks are reported in France at about this time. The gas dissolved in the drink is what drives it out of the container. Sources on this are mostly short summaries, so the date is approximate.",
+      "why": "It is the first version of the idea in every aerosol can: store pressure inside and let it do the pushing.",
+      "box": "cousins",
+      "sources": [
+        36
+      ]
+    },
+    {
+      "year": 1837,
+      "date": "1837",
+      "era": "fizz",
+      "art": "vessels",
+      "title": "A soda siphon with a valve",
+      "who": "Perpigna (attributed)",
+      "where": "France",
+      "country": "France",
+      "text": "A soda siphon with a valve is credited to a Frenchman named Perpigna in several short histories. A valve lets the user hold pressure back and release it on demand.",
+      "why": "A valve turns stored pressure into something you can control. The sourcing is thin, so treat the credit as attributed.",
+      "box": "cousins",
+      "sources": [
+        36
+      ]
+    },
+    {
+      "year": 1858,
+      "date": "1858",
+      "era": "atom",
+      "art": "lungs",
+      "title": "The pulverisateur",
+      "who": "Jean Sales-Girons",
+      "where": "France",
+      "country": "France",
+      "text": "Sales-Girons built a portable device that forced liquid out as a fine spray for patients to breathe. A hand pump pressed the liquid through a small jet against a metal plate. Reviews call it among the first pressurised inhalers or nebulisers.",
+      "why": "Doctors, not perfumers, led the first push to make fine liquid sprays.",
+      "box": "stroke",
+      "sources": [
+        17,
+        18,
+        30
+      ],
+      "key": true
+    },
+    {
+      "year": 1871,
+      "date": "c. 1871",
+      "era": "atom",
+      "art": "sprayarm",
+      "title": "Lister's carbolic spray",
+      "who": "Joseph Lister",
+      "where": "Edinburgh, Scotland",
+      "country": "UK",
+      "text": "Lister used a hand-pumped spray nicknamed the donkey engine to fill the operating room with carbolic mist, then moved to a steam spray. It was unpleasant for surgeons and went out of use, and direct antisepsis was what really mattered.",
+      "why": "A famous early lesson that spraying the air is not the same as disinfecting a surface.",
+      "box": "safe",
+      "sources": [
+        16,
+        37
+      ]
+    },
+    {
+      "year": 1879,
+      "date": "1879",
+      "era": "atom",
+      "art": "palette",
+      "title": "A paint distributer",
+      "who": "Abner Peeler",
+      "where": "Iowa, USA",
+      "country": "USA",
+      "text": "Peeler, a jeweller, built a hand-powered device that sprayed paint with compressed air. He was granted a patent in 1882, after selling the rights in 1881.",
+      "why": "This is the seed of the airbrush, which uses moving air to carry liquid out.",
+      "box": "cousins",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 1883,
+      "date": "1883 to 1884",
+      "era": "atom",
+      "art": "palette",
+      "title": "The Walkup airbrush patents",
+      "who": "Liberty and Charles Walkup",
+      "where": "Illinois, USA",
+      "country": "USA",
+      "text": "The Walkups bought Peeler's device for $700 in 1881 and improved it. Patents followed on 18 September 1883 and 6 May 1884.",
+      "why": "An art tool that became a business, and the name airbrush stuck.",
+      "box": "cousins",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 1885,
+      "date": "c. 1885",
+      "era": "farm",
+      "art": "leaf",
+      "title": "Bordeaux mixture sets off crop spraying",
+      "who": "Pierre-Marie-Alexis Millardet",
+      "where": "Bordeaux, France",
+      "country": "France",
+      "text": "Millardet noticed that vines daubed with a copper and lime paste kept off downy mildew, and he published on it. Dates differ in sources between 1882 and 1885. Growers now needed machines to spread a liquid evenly over leaves.",
+      "why": "It created the demand for the knapsack sprayer. This box gives no recipe: modern use follows the label.",
+      "box": "cousins",
+      "sources": [
+        19,
+        20
+      ]
+    },
+    {
+      "year": 1888,
+      "date": "21 February 1888",
+      "era": "atom",
+      "art": "flask",
+      "title": "The DeVilbiss atomiser",
+      "who": "Dr Allen DeVilbiss",
+      "where": "Toledo, Ohio, USA",
+      "country": "USA",
+      "text": "An ear, nose and throat doctor in Toledo patented an atomiser (US 378,357) to put medicine into patients' throats. Air from a rubber bulb blows across a thin tube and lifts the liquid into the blast. A firm followed: sources say by 1890, incorporated in 1905.",
+      "why": "This is the true Bernoulli-suction sprayer, and the ancestor of the perfume bulb.",
+      "box": "cousins",
+      "sources": [
+        3,
+        4
+      ],
+      "key": true
+    },
+    {
+      "year": 1890,
+      "date": "12 August 1890",
+      "era": "atom",
+      "art": "palette",
+      "title": "Burdick's airbrush",
+      "who": "Charles L. Burdick",
+      "where": "USA, then London",
+      "country": "USA",
+      "text": "Burdick's patent, filed in 1889, was granted in 1890, with an internal-mix design in 1891. In 1893 he moved to London, set up the Fountain Brush Company and made the Aerograph. Wikipedia credits 1893 as the first atomising airbrush, but the Airbrush Museum dates the invention earlier.",
+      "why": "The fine-needle airbrush became a tool of illustrators and later car painters.",
+      "box": "cousins",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 1893,
+      "date": "1893 (firm), sprayer earlier",
+      "era": "farm",
+      "art": "sprayarm",
+      "title": "The Vermorel knapsack sprayer",
+      "who": "Victor Vermorel",
+      "where": "Villefranche-sur-Saône, France",
+      "country": "France",
+      "text": "Vermorel's copper Eclair backpack sprayer was used to spread Bordeaux mixture on vines. A sale note dates his farm machinery company to 1893. We could not confirm the year of the sprayer itself.",
+      "why": "The hand-pumped tank on the back is still seen on farms across India today.",
+      "box": "cousins",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 1907,
+      "date": "c. 1907",
+      "era": "atom",
+      "art": "flask",
+      "title": "Perfume atomisers for the dressing table",
+      "who": "Thomas DeVilbiss",
+      "where": "Toledo, Ohio, USA",
+      "country": "USA",
+      "text": "Allen's son Thomas became a partner in 1905. The firm's perfume atomisers and his paint spray gun work both date to about this time. Sources here are partly collectors' histories. Perfume production is said to have ended in 1968.",
+      "why": "A medical tool became a household luxury, then a factory tool for painting cars.",
+      "box": "mist",
+      "sources": [
+        4,
+        5
+      ]
+    },
+    {
+      "year": 1926,
+      "date": "1926 to 1931",
+      "era": "can",
+      "art": "fuel",
+      "title": "Rotheim's aerosol can",
+      "who": "Erik Rotheim",
+      "where": "Oslo, Norway",
+      "country": "Norway",
+      "text": "The Norwegian engineer Erik Rotheim applied for a Norwegian patent in 1926, and a US patent was filed on 30 September 1927 and granted on 7 April 1931 (US 1,800,156). He filled a can with a product and a liquefied gas. Sources disagree on the exact Norwegian dates.",
+      "why": "It is the first modern pressurised spray can. Norway marked it with a stamp in 1998.",
+      "box": "cousins",
+      "sources": [
+        1,
+        0
+      ],
+      "key": true
+    },
+    {
+      "year": 1941,
+      "date": "Filed 29 July 1941",
+      "era": "can",
+      "art": "fuel",
+      "title": "The bug bomb",
+      "who": "Lyle Goodhue and William Sullivan",
+      "where": "Beltsville, Maryland, USA",
+      "country": "USA",
+      "text": "Two US Department of Agriculture scientists found how to dissolve an insect killer in a highly volatile liquid under pressure. Their patent, filed in 1941 and granted on 8 June 1943, names dichlorodifluoromethane, a CFC. Bombs for the armed forces soon followed against malaria mosquitoes in the Second World War.",
+      "why": "Soldiers came home knowing the spray can, and the post-war industry began.",
+      "box": "cousins",
+      "sources": [
+        7,
+        6,
+        0
+      ],
+      "key": true
+    },
+    {
+      "year": 1949,
+      "date": "Filed 28 September 1949",
+      "era": "can",
+      "art": "piston",
+      "title": "The crimp-on valve",
+      "who": "Robert Abplanalp",
+      "where": "New York, USA",
+      "country": "USA",
+      "text": "Abplanalp filed a patent for a valve that could be fixed onto a can by a single crimping or rolling operation, granted on 17 March 1953 (US 2,631,814). It made cheap mass filling possible. His firm was Precision Valve.",
+      "why": "The valve is what made aerosol cans cheap enough for shelves everywhere.",
+      "box": "cousins",
+      "sources": [
+        8
+      ],
+      "key": true
+    },
+    {
+      "year": 1949,
+      "date": "1949",
+      "era": "can",
+      "art": "palette",
+      "title": "Spray paint in a can",
+      "who": "Edward Seymour",
+      "where": "Sycamore, Illinois, USA",
+      "country": "USA",
+      "text": "Seymour's firm put aluminium paint for radiators into an aerosol can, as a demonstration. The tale that his wife suggested it is not confirmed even by the company's own history.",
+      "why": "A tool of home repairs and later of street art.",
+      "box": "cousins",
+      "sources": [
+        35
+      ]
+    },
+    {
+      "year": 1958,
+      "date": "1958 (reported)",
+      "era": "trig",
+      "art": "hammer",
+      "title": "A trigger sprayer in Japan",
+      "who": "Tetsuya Tada",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "One published history says Tada developed a trigger sprayer in 1958 and founded Canyon Corporation. We could only confirm this from that one article and not from a patent, so treat it as reported and not proved.",
+      "why": "Whoever was first, the idea was a hand pump needing no stored gas.",
+      "box": "stroke",
+      "sources": [
+        29
+      ]
+    },
+    {
+      "year": 1965,
+      "date": "Late 1960s",
+      "era": "trig",
+      "art": "sprayarm",
+      "title": "Plastic trigger sprayers reach shops",
+      "who": "Various makers",
+      "where": "USA and Japan",
+      "country": "USA",
+      "text": "Trigger sprayers appeared in the late 1960s. Early ones were sold separately to screw onto glass bottles of window cleaner. Plastics then let a whole pump be moulded cheaply. We did not find one firm date for the first.",
+      "why": "A cheap reusable pump, powered by a finger, is now on cleaning shelves everywhere.",
+      "box": "anatomy",
+      "sources": [
+        9,
+        29
+      ],
+      "key": true
+    },
+    {
+      "year": 1968,
+      "date": "1968",
+      "era": "farm",
+      "art": "scroll",
+      "title": "India's Insecticides Act",
+      "who": "Parliament of India",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "The Act set up a Central Insecticides Board and a Registration Committee, which register pesticides for sale and use in India.",
+      "why": "Why the label and approved uses are what any sprayer's user should follow.",
+      "box": "safe",
+      "sources": [
+        26
+      ]
+    },
+    {
+      "year": 1974,
+      "date": "28 June 1974",
+      "era": "ozone",
+      "art": "earth",
+      "title": "CFCs and the ozone warning",
+      "who": "Mario Molina and F. Sherwood Rowland",
+      "where": "University of California, Irvine, USA",
+      "country": "USA",
+      "text": "A paper in Nature argued that CFCs drift up to the stratosphere, where sunlight frees chlorine that destroys ozone. In the mid-1970s, aerosols used over half of US CFCs.",
+      "why": "Spray cans became a symbol of damage to the planet, and the science changed the industry.",
+      "box": "safe",
+      "sources": [
+        31,
+        11
+      ],
+      "key": true
+    },
+    {
+      "year": 1978,
+      "date": "15 October 1978",
+      "era": "ozone",
+      "art": "fuel",
+      "title": "The US phases out CFC aerosols",
+      "who": "US EPA, FDA and CPSC",
+      "where": "USA",
+      "country": "USA",
+      "text": "A joint rule of March 1978 banned CFC propellants in all but essential aerosols, in steps from October 1978 to April 1979. It cut US aerosol CFC use by about 95%. Total CFC use later rose again in other products.",
+      "why": "The first big action, and a sign that a treaty covering every use would be needed.",
+      "box": "cousins",
+      "sources": [
+        11,
+        12
+      ]
+    },
+    {
+      "year": 1987,
+      "date": "16 September 1987",
+      "era": "ozone",
+      "art": "earth",
+      "title": "The Montreal Protocol",
+      "who": "Governments, under UNEP",
+      "where": "Montreal, Canada",
+      "country": "Canada",
+      "text": "Countries agreed to phase down the substances that deplete the ozone layer. It entered into force on 1 January 1989 and has been strengthened many times.",
+      "why": "A rare global success, and it is why spray cans today use other propellants.",
+      "box": "safe",
+      "sources": [
+        14,
+        13
+      ],
+      "key": true
+    },
+    {
+      "year": 1992,
+      "date": "19 June 1992",
+      "era": "ozone",
+      "art": "earth",
+      "title": "India joins the Montreal Protocol",
+      "who": "Government of India",
+      "where": "India",
+      "country": "India",
+      "text": "India acceded to the protocol in 1992, with CFCs phased out for controlled uses by 1 January 2010, per a CSTEP account.",
+      "why": "Home-grown aerosol and refrigerant makers had to change their chemistry.",
+      "box": "safe",
+      "sources": [
+        13,
+        32
+      ]
+    },
+    {
+      "year": 1995,
+      "date": "1995",
+      "era": "ozone",
+      "art": "molecule",
+      "title": "A Nobel Prize for the ozone work",
+      "who": "Crutzen, Molina and Rowland",
+      "where": "Stockholm, Sweden",
+      "country": "Sweden",
+      "text": "Paul Crutzen, Mario Molina and F. Sherwood Rowland shared the Chemistry prize for work on the chemistry of the atmosphere and ozone.",
+      "why": "Recognition that a question about spray cans was first-rate science.",
+      "box": "safe",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "2016",
+      "era": "today",
+      "art": "scroll",
+      "title": "India's Plastic Waste Management Rules",
+      "who": "Government of India",
+      "where": "India",
+      "country": "India",
+      "text": "New rules notified on 18 March 2016 replaced those of 2011 and have been amended since. They govern how plastic waste, including packaging, is separated and handled.",
+      "why": "A reason to refill a bottle with a working pump before throwing it away.",
+      "box": "safe",
+      "sources": [
+        27
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "October 2016",
+      "era": "today",
+      "art": "earth",
+      "title": "The Kigali Amendment",
+      "who": "Montreal Protocol parties",
+      "where": "Kigali, Rwanda",
+      "country": "Rwanda",
+      "text": "The Protocol was amended to phase down HFCs, which do not harm ozone but strongly warm the climate. India's Cabinet approved ratification in August 2021.",
+      "why": "The same treaty moved on from ozone to climate.",
+      "box": "safe",
+      "sources": [
+        33
+      ]
+    },
+    {
+      "year": 2020,
+      "date": "2020",
+      "era": "today",
+      "art": "person",
+      "title": "Do not spray people",
+      "who": "World Health Organization",
+      "where": "Global",
+      "country": "Global",
+      "text": "During COVID-19, spray tunnels and fogging were used in many places. The WHO said spraying people with disinfectant is not recommended under any circumstances.",
+      "why": "A simple tool is only as good as how it is used.",
+      "box": "safe",
+      "sources": [
+        23
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Portable spray inhaler",
+      "value": "1858",
+      "who": "Sales-Girons, France"
+    },
+    {
+      "label": "Paint sprayer built",
+      "value": "1879",
+      "who": "Abner Peeler, USA"
+    },
+    {
+      "label": "Medical bulb atomiser patent",
+      "value": "1888",
+      "who": "Dr Allen DeVilbiss, Toledo"
+    },
+    {
+      "label": "Aerosol can patent granted in the USA",
+      "value": "1931",
+      "who": "Erik Rotheim, Norway"
+    },
+    {
+      "label": "Bug bomb patent filed",
+      "value": "1941",
+      "who": "Goodhue and Sullivan, USDA"
+    },
+    {
+      "label": "Crimp-on aerosol valve filed",
+      "value": "1949",
+      "who": "Robert Abplanalp, USA"
+    },
+    {
+      "label": "Trigger sprayers in shops",
+      "value": "Late 1960s",
+      "who": "Various makers"
+    },
+    {
+      "label": "Ozone treaty",
+      "value": "1987",
+      "who": "Montreal Protocol"
+    }
+  ],
+  "people": [
+    {
+      "name": "Jean Sales-Girons",
+      "life": "19th century",
+      "role": "Physician",
+      "from": "France",
+      "note": "Built the portable pulverisateur of 1858."
+    },
+    {
+      "name": "Joseph Lister",
+      "life": "1827 – 1912",
+      "role": "Surgeon",
+      "from": "England",
+      "note": "Tried carbolic sprays in the operating room, and later gave them up."
+    },
+    {
+      "name": "Abner Peeler",
+      "life": "19th century",
+      "role": "Jeweller and inventor",
+      "from": "USA",
+      "note": "Built the paint distributer that became the airbrush."
+    },
+    {
+      "name": "Allen DeVilbiss",
+      "life": "19th to 20th century",
+      "role": "Ear, nose and throat doctor",
+      "from": "USA",
+      "note": "Patented the medical bulb atomiser in 1888."
+    },
+    {
+      "name": "Thomas DeVilbiss",
+      "life": "20th century",
+      "role": "Businessman",
+      "from": "USA",
+      "note": "Took the atomiser into perfumes and spray guns."
+    },
+    {
+      "name": "Charles Burdick",
+      "life": "19th to 20th century",
+      "role": "Inventor",
+      "from": "USA",
+      "note": "Patented a fine airbrush and made the Aerograph in London."
+    },
+    {
+      "name": "Erik Rotheim",
+      "life": "1898 – 1938",
+      "role": "Engineer",
+      "from": "Norway",
+      "note": "Patented the aerosol can using a liquefied gas."
+    },
+    {
+      "name": "Lyle Goodhue",
+      "life": "1903 – 1981",
+      "role": "Chemist, USDA",
+      "from": "USA",
+      "note": "Co-inventor of the bug bomb."
+    },
+    {
+      "name": "William Sullivan",
+      "life": "20th century",
+      "role": "Entomologist, USDA",
+      "from": "USA",
+      "note": "Co-inventor of the bug bomb."
+    },
+    {
+      "name": "Robert Abplanalp",
+      "life": "1922 – 2003",
+      "role": "Engineer",
+      "from": "USA",
+      "note": "Invented the cheap crimp-on valve."
+    },
+    {
+      "name": "Mario Molina",
+      "life": "1943 – 2020",
+      "role": "Chemist",
+      "from": "Mexico",
+      "note": "Warned with Rowland that CFCs harm the ozone layer."
+    },
+    {
+      "name": "F. Sherwood Rowland",
+      "life": "1927 – 2012",
+      "role": "Chemist",
+      "from": "USA",
+      "note": "Shared the 1995 Nobel Prize for the ozone work."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "A trigger sprayer stores no gas and no energy to speak of: each stroke comes from your finger.",
+    "The old perfume bulb and the trigger sprayer work in opposite ways. One uses blown air, the other a piston.",
+    "In the mid-1970s, aerosol sprays used over half of the CFCs in the USA.",
+    "The first aerosol insect bombs used a CFC as the propellant, which later became the problem.",
+    "Iowa State University Extension says misting is not an effective way to raise a houseplant's humidity."
+  ],
+  "sources": [
+    {
+      "title": "Aerosol spray dispenser",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aerosol_spray_dispenser"
+    },
+    {
+      "title": "Erik Rotheim",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Erik_Rotheim"
+    },
+    {
+      "title": "Airbrush history timeline",
+      "publisher": "Airbrush Museum",
+      "url": "https://airbrushmuseum.com/airbrush_history_timeline.htm"
+    },
+    {
+      "title": "DeVilbiss atomizers",
+      "publisher": "Wood Library-Museum of Anesthesiology",
+      "url": "https://www.woodlibrarymuseum.org/museum/devilbiss-atomizers/"
+    },
+    {
+      "title": "Toledo glass and DeVilbiss exhibit",
+      "publisher": "University of Toledo Libraries",
+      "url": "https://www.utoledo.edu/library/virtualexhibitions/wtx/excase11-ch4.html"
+    },
+    {
+      "title": "DeVilbiss",
+      "publisher": "Perfume Projects",
+      "url": "https://perfumeprojects.com/museum/marketers/DeVilbiss.shtml"
+    },
+    {
+      "title": "Lyle Goodhue",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lyle_Goodhue"
+    },
+    {
+      "title": "US 2,321,023: Method of applying parasiticides",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US2321023"
+    },
+    {
+      "title": "US 2,631,814: Valve mechanism for dispensing gases and liquids under pressure",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US2631814"
+    },
+    {
+      "title": "Spray bottle",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spray_bottle"
+    },
+    {
+      "title": "Trigger sprayer quick guide",
+      "publisher": "The Cary Company",
+      "url": "https://www.thecarycompany.com/containers/closures/sprayers/trigger-sprayer-quick-guide"
+    },
+    {
+      "title": "Regulatory history of CFCs and other stratospheric ozone-depleting chemicals (to 1993)",
+      "publisher": "US EPA archive",
+      "url": "https://www.epa.gov/archive/epa/aboutepa/regulatory-history-cfcs-and-other-stratospheric-ozone-depleting-chemicals-1993.html"
+    },
+    {
+      "title": "Government ban on fluorocarbon gases in aerosol products begins October 15 [1978]",
+      "publisher": "US EPA archive",
+      "url": "https://www.epa.gov/archive/epa/aboutepa/government-ban-fluorocarbon-gases-aerosol-products-begins-october-15-1978.html"
+    },
+    {
+      "title": "All ratifications",
+      "publisher": "UNEP Ozone Secretariat",
+      "url": "https://ozone.unep.org/all-ratifications"
+    },
+    {
+      "title": "Montreal Protocol: Final Act, 1987",
+      "publisher": "UNEP Ozone Secretariat",
+      "url": "https://ozone.unep.org/system/files/documents/1987_Montreal-Protocol_Final-Act.E.pdf"
+    },
+    {
+      "title": "The Nobel Prize in Chemistry 1995: press release",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/chemistry/1995/press-release/"
+    },
+    {
+      "title": "Lister's donkey engine carbolic spray",
+      "publisher": "Science Museum Group",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co163529"
+    },
+    {
+      "title": "Review article on the history of inhalers (Acta Pharmaceutica, 2022)",
+      "publisher": "Hrcak",
+      "url": "https://hrcak.srce.hr/file/381259"
+    },
+    {
+      "title": "Inhalation of nebulized fluids",
+      "publisher": "PubMed Central",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9995051/"
+    },
+    {
+      "title": "Bordeaux mixture",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bordeaux_mixture"
+    },
+    {
+      "title": "How one mycologist saved France's wine",
+      "publisher": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/how-one-mycologist-saved-frances-wine-among-other-things-180967526/"
+    },
+    {
+      "title": "Victor Vermorel lot note",
+      "publisher": "Gazette Drouot",
+      "url": "https://www.gazette-drouot.com/en/lots/14596048-bioletto-photographie-lyon-"
+    },
+    {
+      "title": "Cleaning and disinfecting with bleach",
+      "publisher": "US CDC",
+      "url": "https://www.cdc.gov/hygiene/about/cleaning-and-disinfecting-with-bleach.html"
+    },
+    {
+      "title": "Coronavirus disease (COVID-19): cleaning and disinfecting surfaces in non-health care settings",
+      "publisher": "WHO",
+      "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-cleaning-and-disinfecting-surfaces-in-non-health-care-settings"
+    },
+    {
+      "title": "Introduction to pesticide labels",
+      "publisher": "US EPA",
+      "url": "https://www.epa.gov/pesticide-labels/introduction-pesticide-labels"
+    },
+    {
+      "title": "Hazard alert: mixing cleaners",
+      "publisher": "New Jersey Department of Health",
+      "url": "https://www.nj.gov/health/workplacehealthandsafety/occupational-health-surveillance/Hazard_Alert-Mixing-Cleaners.pdf"
+    },
+    {
+      "title": "The Insecticides Act, 1968",
+      "publisher": "India Code",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/13595/1/the_insecticides_act,1968.pdf"
+    },
+    {
+      "title": "Plastic Waste Management Rules, 2016",
+      "publisher": "UNEP LEAP",
+      "url": "https://leap.unep.org/en/countries/in/national-legislation/plastic-waste-management-rules-2016"
+    },
+    {
+      "title": "The air in our home is extremely dry in winter. Should I mist the houseplants?",
+      "publisher": "Iowa State University Extension",
+      "url": "https://yardandgarden.extension.iastate.edu/faq/air-our-home-extremely-dry-winter-should-i-mist-houseplants"
+    },
+    {
+      "title": "Spray bottle nozzle history",
+      "publisher": "Tedium",
+      "url": "https://readtedium.substack.com/p/spray-bottle-nozzle-history"
+    },
+    {
+      "title": "Atomizing instruments",
+      "publisher": "PubMed Central",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9801785/"
+    },
+    {
+      "title": "EPA history: ozone layer depletion",
+      "publisher": "US EPA",
+      "url": "https://epa.gov/history/epa-history-ozone-layer-depletion"
+    },
+    {
+      "title": "Article on India's ozone-depleting substance phase-out",
+      "publisher": "CSTEP",
+      "url": "https://cstep.in/?p=502997"
+    },
+    {
+      "title": "Kigali Amendment ratification",
+      "publisher": "Prime Minister's Office, India",
+      "url": "https://www.pmindia.gov.in/?p=9995011"
+    },
+    {
+      "title": "Guidance on agricultural pesticide sprayers",
+      "publisher": "FAO",
+      "url": "https://www.fao.org/4/x2245e/X2245E01.htm"
+    },
+    {
+      "title": "The history of spray paint",
+      "publisher": "Beyond The Streets",
+      "url": "https://beyondthestreets.com/blogs/articles/the-history-of-spray-paint"
+    },
+    {
+      "title": "Aerosol spray",
+      "publisher": "Simple English Wikipedia",
+      "url": "https://simple.wikipedia.com/wiki/Aerosol_spray"
+    },
+    {
+      "title": "Steam carbolic spray used by Joseph Lister",
+      "publisher": "Science Museum Group",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co163554/steam-carbolic-spray-used-by-joseph-lister-late-19th-century"
+    },
+    {
+      "title": "Guidelines for the recovery and recycling of plastics waste (IS 14534)",
+      "publisher": "Bureau of Indian Standards",
+      "url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/NjQ0NA=="
+    }
+  ]
+}
